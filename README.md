@@ -99,7 +99,7 @@ const harshita = {
 
 ---
 
-## 🌈 Experience
+## Experience
 
 | ✨ | Role | Where | When |
 |---|------|-------|------|
