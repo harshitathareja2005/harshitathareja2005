@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Harshita%20%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%9C%A8&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Harshita&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%9C%A8&descAlignY=60&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=%F0%9F%92%BB+Turning+coffee+into+code+%E2%98%95;%F0%9F%8C%B7+Building+useful+web+apps;%E2%9A%9B%EF%B8%8F+React+%7C+Node+%7C+MongoDB+%7C+Next.js;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC+Led+a+team+of+85+interns+at+UPTOSKILLS" alt="Typing SVG" />
