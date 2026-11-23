@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Harshita&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%9C%A8&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Harshita%20%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%9C%A8&descAlignY=60&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=%F0%9F%92%BB+Turning+coffee+into+code+%E2%98%95;%F0%9F%8C%B7+Building+cute+%26+useful+web+apps;%E2%9A%9B%EF%B8%8F+React+%7C+Node+%7C+MongoDB+%7C+Next.js;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC+Led+a+team+of+85+interns+at+UPTOSKILLS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=%F0%9F%92%BB+Turning+coffee+into+code+%E2%98%95;%F0%9F%8C%B7+Building+useful+web+apps;%E2%9A%9B%EF%B8%8F+React+%7C+Node+%7C+MongoDB+%7C+Next.js;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC+Led+a+team+of+85+interns+at+UPTOSKILLS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,21 +20,60 @@
 
 ## 🌷 About Me
 
-```js
-const harshita = {
-  pronouns: "she/her",
-  location: "Gurugram, Haryana 🇮🇳",
-  studying: "B.Tech CSE @ IITM College of Engineering, MDU",
-  currentlyBuilding: ["QuickShow 🎬", "SevaMitr 🧠"],
-  superpower: "Turning ideas into full stack apps ✨",
-  funFact: "Went from intern to Team Lead in just 4 weeks 🚀",
-  lookingFor: "Full stack / MERN opportunities 💼"
-};
-```
+<div align="center">
 
-🏆 **1st place** in the college internal round of Smart India Hackathon
-🤝 Helped **800+ students** find internships through **30+ companies** at Nexturn
-🎨 I love turning Figma designs into real, responsive interfaces
+*Hey there! I'm a CS student who loves building web apps that look pretty and work smoothly.*
+*I enjoy the whole journey, from a Figma sketch to a deployed full stack product* 🎨➡️💻
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 👥 **85** | 🤝 **800+** | 🏢 **65+** | 🏆 **#1** |
+|:---:|:---:|:---:|:---:|
+| interns led as Team Lead | students connected to internships | companies & corporate partners | in college SIH internal round |
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎀 A little about me
+
+- 🎓 B.Tech CSE at **IITM College of Engineering, MDU**
+- 📍 Based in **Gurugram, Haryana**
+- 💻 Full stack developer working with the **MERN** stack
+- 🎨 I design in **Figma**, then bring it to life in code
+- 🚀 Went from intern to **Team Lead in 4 weeks**
+- 📣 Ran **5+ internship drives** at Nexturn
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Right now
+
+- 💼 Looking for **full stack / MERN** roles
+- 🤝 Open to collaborations and fun projects
+- 💬 Ask me about **React, Node, MongoDB or Figma**
+- ⚡ Fun fact: I like a clean UI almost as much as clean code ✨
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open_to_Work-f472b6?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN_Stack-a78bfa?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma_Lover-67e8f9?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Team_Lead-fbbf24?style=for-the-badge&logo=target&logoColor=white" />
+
+</div>
 
 ---
 
@@ -99,7 +138,7 @@ const harshita = {
 
 ---
 
-## Experience
+## 🌈 Experience
 
 | ✨ | Role | Where | When |
 |---|------|-------|------|
@@ -141,7 +180,7 @@ const harshita = {
 
 <div align="center">
 
-I'm open to **full stack / MERN** roles and fun collaborations  🪷
+I'm open to **full stack / MERN** roles and fun collaborations 🪷
 
 📧 **harshitathareja@gmail.com**
 🔗 **[linkedin.com/in/harshita-thareja](https://linkedin.com/in/harshita-thareja)**
