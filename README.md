@@ -141,7 +141,7 @@ const harshita = {
 
 <div align="center">
 
-I'm open to **full stack / MERN** roles and fun collaborations 🌸
+I'm open to **full stack / MERN** roles and fun collaborations  🪷
 
 📧 **harshitathareja@gmail.com**
 🔗 **[linkedin.com/in/harshita-thareja](https://linkedin.com/in/harshita-thareja)**
