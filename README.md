@@ -138,7 +138,7 @@
 
 ---
 
-## 🌈 Experience
+## Experience
 
 | ✨ | Role | Where | When |
 |---|------|-------|------|
